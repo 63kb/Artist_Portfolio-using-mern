@@ -20,6 +20,17 @@ Welcome to the **Art Portfolio Website**, a platform crafted for artists to beau
 
 ---
 
+## website images 
+![image](https://github.com/user-attachments/assets/11407292-35ef-4646-b8d7-4f182c83b0d0)
+
+![image](https://github.com/user-attachments/assets/998fffdc-7d72-4ccc-a1b8-cb0e81603577)
+
+![image](https://github.com/user-attachments/assets/caa90c40-00d5-4ca6-9329-0df8a1111cc5)
+
+![image](https://github.com/user-attachments/assets/ae26d0d9-74f2-43a6-94ac-27a1161a24b3)
+
+
+
 ## Available Artworks (Sample)
 
 | Artwork Title   | Medium           | Size        | Year | Price  | Availability |
